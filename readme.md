@@ -3,8 +3,6 @@
 
 이력서
 --------------
-> ** 헤더 : **
-
 > - 성명 : 유승민
 > - 이메일 : yousmin80@naver.com
 > - Github : https://github.com/Haru9029/whiteHat
